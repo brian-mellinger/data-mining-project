@@ -3,7 +3,7 @@ California neighborhoods in 1990 and figure out how to predict housing prices. T
 in R, we were able to simplify our methods to obtain quick and easy statistics. 
 
 
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/5ebe8fb1-bd37-4775-ab84-061a04292adb" />
+<img width="1000" height="1500" alt="image" src="https://github.com/user-attachments/assets/5ebe8fb1-bd37-4775-ab84-061a04292adb" />
 This image is our unprocessed data from our CSV file in the form of box plots. Here we used location of the holmes and their prices as an initial look on the data.
 
 <img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/364dfea0-651c-4aab-b786-b788fc8fd7ba" />
